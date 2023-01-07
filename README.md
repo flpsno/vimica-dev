@@ -1,1 +1,0 @@
-# vimica-dev
